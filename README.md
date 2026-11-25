@@ -28,3 +28,14 @@ To run the number-conversion program created in Mission 5:
 ```bash
 cd mission-05-numbers-data
 python3 number_converter.py
+```
+
+Enter any positive decimal integer when prompted to view its binary and hexadecimal equivalents.
+
+## What I Learned
+* **Command-Line & OS Fundamentals:** I learned how to navigate folders, manage files safely, combine command flags with pipes, and inspect processes and file permissions in Terminal.
+* **Programs & Data Representation:** I learned the difference between compiled and interpreted languages, converted values across decimal, binary, and hexadecimal bases, and built a working Python converter.
+* **Version Control & Networking:** I learned how Git tracks snapshots cleanly per mission, how branches and Pull Requests isolate changes, and how DNS, routers, and protocols work together when opening a website.
+
+## Workflow Note
+Each mission was completed, documented in its own `README.md` using the required standardized template, committed separately with a descriptive commit message, and pushed to GitHub before starting the next mission.
